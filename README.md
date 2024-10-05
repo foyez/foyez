@@ -6,7 +6,9 @@ My current skillsets constitutes web application development using technologies 
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/foyez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="foyez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/foyez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/foyez" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/foyez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/foyez" height="30" width="40" /></a>
+</p>
 </p>
 
 ### Stats:
