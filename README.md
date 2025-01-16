@@ -10,6 +10,8 @@ My current skillsets constitutes web application development using technologies 
 <a href="https://leetcode.com/u/foyez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/foyez/foyez/main/img/leetcode.svg" alt="https://leetcode.com/u/foyez" height="30" width="40" /></a>
 <a href="https://medium.com/@foyez" target="blank"><img align="center" src="https://raw.githubusercontent.com/foyez/foyez/main/img/medium.svg" alt="https://medium.com/@foyez" height="30" width="40" /></a>
 </p>
+<a href="https://foyez.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/foyez/foyez/main/img/foyez.svg" alt="https://foyez.netlify.app/" height="30" width="40" /></a>
+</p>
 </p>
 
 ### Stats:
