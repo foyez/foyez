@@ -16,6 +16,6 @@ My current skillsets constitutes web application development using technologies 
 
 ### Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foyez&theme=swift&layout=compact&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foyez&layout=compact&hide=html,css)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foyez&" alt="foyez" /></p>
