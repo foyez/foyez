@@ -2,7 +2,7 @@
 
 I am a **Software Engineer** with several years of professional experience. I am passionate about learning and developing applications using modern technologies.
 
-My current skillsets constitutes web application development using technologies like **Typescript**, **React**, **NodeJS**, **Go**,, **Python**, **Docker** and **AWS**.
+My current skillsets constitutes web application development using technologies like **Typescript**, **React**, **NodeJS**, **Go**, **Python**, **Docker** and **AWS**.
 
 ### Connect with me:
 <p align="left">
