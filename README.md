@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foyez-dev&label=Profile%20views&color=0e75b6&style=flat" alt="foyez" /> </p>
 
-I am a **Software Engineer** with several years of professional experience. I am passionate about learning and developing applications using modern technologies.
+Software Engineer with a focus on building reliable, cloud-native backend systems. Experienced across **Go**, **TypeScript**, and **Python**, with hands-on work in **Docker**, **Kubernetes**, and **Terraform** on **AWS**. I enjoy solving problems at the intersection of infrastructure and application code, from container orchestration to CI/CD pipelines that just work.
 
-My current skillsets constitutes web application development using technologies like **Typescript**, **React**, **NodeJS**, **Go**, **Python**, **Docker** and **AWS**.
+Always happy to connect and talk backend systems, cloud infrastructure, or DevOps.
 
 ### Stats:
 
